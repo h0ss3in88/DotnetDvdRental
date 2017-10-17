@@ -1,0 +1,8 @@
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\bin\Debug\netstandard2.0\DVDRental.Model.deps.json
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\bin\Debug\netstandard2.0\DVDRental.Model.dll
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\bin\Debug\netstandard2.0\DVDRental.Model.pdb
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\obj\Debug\netstandard2.0\DVDRental.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\obj\Debug\netstandard2.0\DVDRental.Model.AssemblyInfoInputs.cache
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\obj\Debug\netstandard2.0\DVDRental.Model.AssemblyInfo.cs
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\obj\Debug\netstandard2.0\DVDRental.Model.dll
+C:\Users\Hussein\RiderProjects\DVDRental\DVDRental.Model\obj\Debug\netstandard2.0\DVDRental.Model.pdb

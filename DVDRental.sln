@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDRental.Model", "DVDRental.Model\DVDRental.Model.csproj", "{57E5E0B0-33DC-45BC-B4FE-E22F6064EAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDRental.Data", "DVDRental.Data\DVDRental.Data.csproj", "{EEB28622-3809-483B-BB26-854A030C5333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVDRental.Test", "DVDRental.Test\DVDRental.Test.csproj", "{3AE87065-9BCB-42C6-BD74-1004BD0577A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E5E0B0-33DC-45BC-B4FE-E22F6064EAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E5E0B0-33DC-45BC-B4FE-E22F6064EAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E5E0B0-33DC-45BC-B4FE-E22F6064EAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E5E0B0-33DC-45BC-B4FE-E22F6064EAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB28622-3809-483B-BB26-854A030C5333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB28622-3809-483B-BB26-854A030C5333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB28622-3809-483B-BB26-854A030C5333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB28622-3809-483B-BB26-854A030C5333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE87065-9BCB-42C6-BD74-1004BD0577A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE87065-9BCB-42C6-BD74-1004BD0577A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE87065-9BCB-42C6-BD74-1004BD0577A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE87065-9BCB-42C6-BD74-1004BD0577A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
